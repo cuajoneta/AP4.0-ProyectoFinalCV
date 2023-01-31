@@ -45,6 +45,10 @@ footer a:not(.nav-link) {
     display:none;
 }
 
+#titulo-portada-CV,#titulo-portada-contacto{
+    font-family: 'Ms Madi', cursive;
+}
+
 @media (min-width: 48em) {
     .site-title {
         float: left; }
